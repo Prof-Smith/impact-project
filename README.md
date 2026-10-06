@@ -38,3 +38,7 @@ This version:
 ## Editing
 
 Edit the `.html` files for content and `assets/styles.css` for styles. No build process or dependencies are required.
+
+## Updating an existing repository
+
+Delete the previous site files from the publishing source, then upload the contents of this ZIP directly to the repository root. Confirm that `index.html` and `assets/impact-brand-v2.css` appear at the root structure shown in this package. Commit the replacement and verify the latest Pages deployment. The versioned stylesheet reference prevents the previous blue stylesheet from being reused from cache.

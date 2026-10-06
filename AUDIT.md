@@ -32,3 +32,11 @@ The GitHub Pages shell was reviewed after the requested update.
 - Skip navigation included
 - Main content landmark included
 - GitHub Pages instructions preserved in `README.md`
+
+## Corrective color verification
+
+- All legacy blue/navy hex values were removed from the stylesheet.
+- The active stylesheet was renamed to `impact-brand-v2.css`.
+- Every HTML page references the new stylesheet with a version query string.
+- A `.nojekyll` marker was added for direct static publishing.
+- The ZIP places deployable files at the archive root to prevent accidental nested-folder publishing.
