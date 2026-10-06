@@ -1,4 +1,4 @@
-# The Saint Leo Impact Project
+# Impact Project
 
 ## Knowledge Applied. Purpose Realized.
 
